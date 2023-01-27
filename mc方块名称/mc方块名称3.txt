@@ -1,0 +1,579 @@
+石头 STONE 
+
+草块 GRASS 
+
+泥土 DIRT 
+
+圆石 COBBLESTONE 
+
+橡木木板 WOOD 
+
+云杉木板 WOOD 1
+
+桦木木板 WOOD 2
+
+丛林木板 WOOD 3
+
+橡树树苗 SAPLING 
+
+云杉树苗 SAPLING 1
+
+桦木树苗 SAPLING 2
+
+丛林树苗 SAPLING 3
+
+沙子 SAND 
+
+沙硕 GRAVEL 
+
+金矿石 GOLD_ORE 
+
+铁矿石 IRON_ORE 
+
+煤矿石 COAL_ORE 
+
+橡木 LOG 
+
+云杉木 LOG 1
+
+白桦木 LOG 2
+
+丛林木 LOG 3
+
+橡木树叶 LEAVES
+
+云杉树叶 LEAVES 1
+
+白桦树叶 LEAVES 2
+
+丛林树叶 LEAVES 3
+
+玻璃 GLASS
+
+青金石矿石 LAPIS_ORE
+
+青金石块 LAPIS_BLOCK
+
+发射器 DISPENSER
+
+沙石 SANDSTONE
+
+錾制沙石 SANDSTONE 1
+
+平滑沙石 SANDSTONE 2
+
+音符盒 NOTE_BLOCK 
+
+动力铁轨 POWERED_RAIL
+
+探测铁轨 DETECTOR_RAIL
+
+粘性活塞 PISTON_STICKY_BASE
+
+灌木 LONG_GRASS
+
+枯死的灌木 DEAD_BUSH
+
+活塞 PISTON_BASE
+
+白色羊毛 WOOL
+
+橙色羊毛 WOOL 1
+
+红色羊毛 WOOL 2
+
+蓝色羊毛 WOOL 3
+
+黄色羊毛 WOOL 4
+
+灰色羊毛 WOOL 5
+
+粉色羊毛 WOOL 6
+
+灰色羊毛 WOOL 7
+
+淡灰色羊毛 WOOL 8
+
+青色羊毛 WOOL 9
+
+紫色羊毛 WOOL 10
+
+蓝色羊毛 WOOL 11
+
+棕色羊毛 WOOL 12
+
+深绿色羊毛 WOOL 13 
+
+红色羊毛 WOOL 14
+
+黑色羊毛 WOOL 15
+
+蒲公英 YELLOW_FLOWER
+
+玫瑰 RED_ROSE
+
+棕色蘑菇 BROWN_MUSHROOM
+
+红色蘑菇 RED_MUSHROOM
+
+金块 GOLD_BLOCK
+
+铁块 IRON_BLOCK
+
+石台阶 STEP
+
+沙石台阶 STEP 1
+
+木台阶 STEP 2
+
+圆石台阶 STEP 3
+
+砖台阶 STEP 4
+
+石砖台阶 STEP 5
+
+红砖 BRICK
+
+TNT TNT
+
+书架 BOOKSHELF
+
+苔石 MOSSY_COBBLESTONE
+
+黑曜石 OBSIDIAN
+
+火把 TORCH
+
+橡木楼梯 WOOD_STAIRS
+
+箱子 CHEST
+
+钻石矿石 DIAMOND_ORE
+
+钻石块 DIAMOND_BLOCK
+
+工作台 WORKBENCH
+
+熔炉 FURNACE
+
+梯子 LADDER
+
+铁轨 RAILS
+
+石楼梯 COBBLESTONE_STAIRS
+
+拉杆 LEVER
+
+石压力板 STONE_PLATE
+
+木压力板 WOOD_PLATE
+
+红石矿石 REDSTONE_ORE
+
+红石火把 REDSTONE_TORCH_ON
+
+石按钮 STONE_BUTTON
+
+冰 ICE
+
+雪 SNOW_BLOCK
+
+仙人掌 CACTUS
+
+粘土 CLAY
+
+唱片机 JUKEBOX
+
+栅栏 FENCE
+
+南瓜 PUMPKIN
+
+地狱岩 NETHERRACK
+
+灵魂沙 SOUL_SAND
+
+萤石 GLOWSTONE
+
+南瓜灯 JACK_O_LANTERN
+
+活板门 TRAP_DOOR
+
+石砖 SMOOTH_BRICK
+
+苔石砖 SMOOTH_BRICK 1
+
+裂石砖 SMOOTH_BRICK 2
+
+錾制石砖 SMOOTH_BRICK 3
+
+蘑菇 HUGE_MUSHROOM 1
+
+蘑菇 HUGE_MUSHROOM 2
+
+铁栅栏 IRON_FENCE
+
+玻璃板 THIN_GLASS
+
+西瓜 MELON_BLOCK
+
+藤蔓 VINE
+
+栅栏门 FENCE_GATE
+
+砖楼梯 BRICK_STAIRS
+
+石楼梯 SMOOTH_STAIRS
+
+菌丝 MYCEL
+
+睡莲 WATER_LILY
+
+地狱砖块 NETHER_BRICK
+
+地狱砖栅栏 NETHER_FENCE
+
+地狱砖楼梯 NETHER_BRICK_STAIRS
+
+附魔台 ENCHANTMENT_TABLE
+
+末地石 ENDER_STON
+
+龙蛋 DRAGON_EGG
+
+红石灯 REDSTONE_LAMP_OFF
+
+橡木台阶 WOOD_STEP
+
+云杉台阶 WOOD_STEP 1
+
+桦木台阶 WOOD_STEP 2
+
+丛林台阶 WOOD_STEP 3
+
+沙石楼梯 SANDSTONE_STAIRS
+
+绿宝石矿石 EMERALD_ORE
+
+末影箱 ENDER_CHEST
+
+拌线钩 TRIPWIRE_HOOK
+
+绿宝石矿石 EMERALD_BLOCK
+
+云杉木楼梯 SPRUCE_WOOD_STAIRS
+
+桦木楼梯 BIRCH_WOOD_STAIRS
+
+丛林木楼梯 JUNGLE_WOOD_STAIRS
+
+铁铲子 IRON_SPADE
+
+铁镐 IRON_PICKAXE
+
+铁斧 IRON_AXE
+
+打火石 FLINT_AND_STEEL
+
+弓 BOW
+
+铁剑 IRON_SWORD
+
+木剑 WOODEN_SWORD
+
+木铲 WOODEN_SPADE
+
+木镐 WOODEN_PICKAXE
+
+木斧 WOODEN_AXE
+
+石剑 STONE_SWORD
+
+石铲 STONE_SPADE
+
+石镐 STONE_PICKAXE
+
+石斧 STONE_AXE
+
+金剑 GOLD_SWORD
+
+金铲 GOLD_SPADE
+
+金镐 GOLD_PICKAXE
+
+金斧 GOLD_AXE
+
+木锄 WOODEN_HOE
+
+石锄 STONE_HOE
+
+铁锄 IRON_HOE
+
+钻石锄 DIAMOND_HOE
+
+金锄 GOLD_HOE
+
+钻石剑 DIAMOND_SWORD
+
+钻石铲 DIAMOND_SPADE
+
+钻石镐 DIAMOND_PICKAXE
+
+钻石斧 DIAMOND_AXE
+
+桶 BUCKET
+
+水桶 WATER_BUCKET
+
+岩浆桶 LAVA_BUCKET
+
+指南针 COMPASS
+
+钓鱼竿 FISHING_ROD
+
+钟 WATCH
+
+空地图 MAP
+
+剪刀 SHEARS
+
+火焰弹 FIREBALL
+
+苹果 APPLE
+
+碗 BOWL
+
+炖蘑菇 MUSHROOM_SOUP
+
+小麦种子 SEEDS
+
+小麦 WHEAT
+
+面包 BREAD
+
+生猪排 PORK
+
+熟猪排 GRILLED_PORK
+
+金苹果 GOLDEN_APPLE
+
+牛奶 MILK_BUCKET
+
+生鱼 RAW_FISH
+
+熟鱼 COOKED_FISH
+
+糖 SUGAR
+
+蛋糕 CAKE
+
+曲奇 COOKIE
+
+西瓜 MELON
+
+南瓜种子 PUMPKIN_SEEDS
+
+西瓜种子 MELON_SEEDS
+
+生牛肉 RAW_BEEF
+
+牛排 COOKED_BEEF
+
+生鸡肉 RAW_CHICKEN
+
+熟鸡肉 COOKED_CHICKEN
+
+皮革帽子 LEATHER_HELMET
+
+皮革外衣 LEATHER_CHESTPLATE
+
+皮革裤子 LEATHER_LEGGINGS
+
+皮靴 LEATHER_BOOTS
+
+铁头盔 IRON_HELMET
+
+铁盔甲 IRON_CHESTPLATE
+
+铁护腿 IRON_LEGGINGS
+
+铁靴 IRON_BOOTS
+
+钻石头盔 DIAMOND_HELMET
+
+钻石胸甲 DIAMOND_CHESTPLATE
+
+钻石护腿 DIAMOND_LEGGINGS
+
+钻石靴 DIAMOND_BOOTS
+
+金头盔 GOLD_HELMET
+
+金护甲 GOLD_CHESTPLATE
+
+金护腿 GOLD_LEGGINGS
+
+金靴子 GOLD_BOOTS
+
+矿车 MINECART
+
+鞍 SADDLE
+
+船 BOAT
+
+运输矿车 STORAGE_MINECART
+
+动力矿车 POWERED_MINECART
+
+煤炭 COAL
+
+木炭 COAL 1
+
+钻石 DIAMOND
+
+铁锭 IRON_INGOT
+
+金锭 GOLD_INGOT
+
+青金石 INK_SACK
+
+萤石粉 GLOWSTONE_DUST
+
+水瓶 POTION
+
+恶魂之泪 GHAST_TEAR
+
+金粒 GOLD_NUGGET
+
+地狱庞 NETHER_STALK
+
+玻璃瓶 GLASS_BOTTLE
+
+蜘蛛眼 SPIDER_EYE
+
+发酵的蜘蛛眼 FERMENTED_SPIDER_EYE
+
+烈焰粉 BLAZE_POWDER
+
+岩浆膏 MAGMA_CREAM
+
+末影之眼 EYE_OF_ENDER
+
+闪烁的西瓜 SPECKLED_MELON
+
+画 PAINTING
+
+告示牌 SIGN
+
+木门 WOODEN_DOOR
+
+铁门 IRON_DOOR
+
+红砖 CLAY_BRICK
+
+粘土 CLAY_BALL
+
+床 BED
+
+酿造台 BREWING_STAND_ITEM
+
+炼药锅 CAULDRON_ITEM
+
+绿宝石 EMERALD
+
+墨囊 INK_SACK
+
+红色玫瑰 INK_SACK 1
+
+仙人掌绿 INK_SACK 2
+
+可可豆 INK_SACK 3
+
+青金石 INK_SACK 4
+
+紫色的染料 INK_SACK 5
+
+青色的染料 INK_SACK 6
+
+浅灰色的染料 INK_SACK 7
+
+灰色的染料 INK_SACK 8
+
+粉红色染料 INK_SACK 9
+
+黄绿色染料 INK_SACK 10
+
+蒲公英黄 INK_SACK 11
+
+浅蓝色的染料 INK_SACK 12
+
+品红染料 INK_SACK 13
+
+橙色染料 INK_SACK 14
+
+骨粉 INK_SACK 15
+
+唱片C418-13 GOLD_RECORD
+
+唱片C418-cat GREEN_RECORD
+
+唱片C418-blocks RECORD_3
+
+唱片C418-chirp RECORD_4
+
+唱片C418-far RECORD_5
+
+唱片C418-mall RECORD_6
+
+唱片C418-mellohi RECORD_7
+
+唱片C418-satl RECORD_8
+
+唱片C418-strad RECORD_9
+
+唱片C418-ward RECORD_10
+
+唱片C418-11 RECORD_11
+
+唱片C418-wait RECORD_12
+
+箭 ARROW
+
+木棍 STICK
+
+线 STRING 
+
+羽毛 FEATHER
+
+火药 SULPHUR
+
+燧石 FLINT
+
+雪球 SNOW_BALL
+
+皮革 LEATHER
+
+甘蔗 SUGAR_CANE
+
+纸 PAPER
+
+书 BOOK
+
+粘液球 SLIME_BALL
+
+鸡蛋 EGG
+
+骨头 BONE
+
+腐肉 ROTTEN_FLESH
+
+末影珍珠 ENDER_PEARL
+
+火焰棒 BLAZE_ROD
+
+书与笔 BOOK_AND_QUILL
+
+成书 WRITTEN_BOOK
+
+红石 REDSTONE
+
+红石中继器 DIODE

@@ -1,0 +1,644 @@
+煤矿石Coal Ore-
+(深层煤矿石Deepslate Coal Ore ) 
+紫水晶簇Amethyst Clusters 
+铁矿石Iron Ore-
+(深层铁矿石Deepslate Iron Ore ) 
+铜矿石Copper Ore-
+(深层铜矿石Deepslate Copper Ore ) 
+金矿石Gold Ore-
+(下界金矿石Nether Gold Ore
+深层金矿石Deepslate Gold Ore ) 
+红石矿石Redstone Ore-
+(深层红石矿石Deepslate Redstone Ore ) 
+青金石矿石Lapis Lazuli Ore-
+(深层青金石矿石Deepslate Lapis Ore ) 
+钻石矿石Diamond Ore-
+(深层钻石矿石Deepslate Diamond Ore )
+绿宝石矿石Emerald Ore-
+(深层绿宝石矿石Deepslate Emerald Ore ) 
+下界石英矿石Nether Quartz Ore
+远古残骸Ancient Debris	
+爆裂紫颂果Popped Chorus Fruit
+下界合金碎片Netherite Scrap
+下界合金锭Netherite Ingot
+蜜脾Honeycomb
+鳞甲Scute
+铜锭Copper Ingot
+紫水晶碎片Amethyst Shard
+粗铁Raw Iron
+粗铜Raw Copper
+粗金Raw Gold
+荧光墨囊Glow Ink Sac
+下界砖Nether Brick
+附魔之瓶Bottle o' Enchanting
+骨粉Bone Meal-
+(白色染料White Dye
+淡灰色染料Light Gray Dye
+灰色染料Gray Dye
+墨囊Ink Sac
+黑色染料Black Dye
+粉红色染料Pink Dye
+红色染料Red Dye
+橙色染料Orange Dye
+黄色染料Yellow Dye
+黄绿色染料Lime Dye
+绿色染料Green Dye
+淡蓝色染料Light Blue Dye
+青色染料Cyan Dye
+青金石Lapis Lazuli
+蓝色染料Blue Dye
+紫色染料Purple Dye
+品红色染料Magenta Dye
+棕色染料Brown Dye ) 
+骨头Bone
+红砖Brick
+海晶砂粒Prismarine Crystals
+海晶碎片Prismarine Shard
+海洋之心Heart of the Sea
+火药Gunpowder
+鸡蛋Egg
+金锭Gold Ingot-
+(金粒Gold Nugget ) 
+烈焰棒Blaze Rod
+绿宝石Emerald
+煤炭Coal-
+(木炭Charcoal )
+末影珍珠Ender Pearl-
+(末影之眼Eye of Ender ) 
+木棍Stick
+黏土球Clay
+黏液球Slimeball
+皮革Leather
+潜影壳Shulker Shell
+书Book
+燧石Flint
+糖Sugar
+铁锭Iron Ingot-
+(铁粒Iron Nugget ) 
+兔子皮Rabbit Hide
+碗Bowl
+线String
+雪球Snowball
+下界石英Nether Quartz
+下界之星Nether Star
+烟花火箭Firework Rocket
+烟火之星Firework Star
+鹦鹉螺壳Nautilus Shell
+荧石粉Glowstone Dust
+羽毛Feather
+纸Paper
+钻石Diamond
+皮革帽子Leather Cap-
+(皮革外套Leather Tunic
+皮革裤子Leather Pants
+皮革靴子Leather Boots ) 
+锁链头盔Chain Helmet-
+(锁链胸甲Chain Chestplate
+锁链护腿Chain Leggings
+锁链靴子Chain Boots ) 
+铁头盔Iron Helmet-
+(铁胸甲Iron Chestplate
+铁护腿Iron Leggings
+铁靴子Iron Boots ) 
+金头盔Golden Helmet-
+(金胸甲Golden Chestplate
+金护腿Golden Leggings
+金靴子Golden Boots ) 
+钻石头盔Diamond Helmet-
+(钻石胸甲Diamond Chestplate
+钻石护腿Diamond Leggings
+钻石靴子Diamond Boots ) 
+下界合金头盔Netherite Helmet-
+(下界合金胸甲Netherite Chestplate
+下界合金护腿Netherite Leggings
+下界合金靴子Netherite Boots ) 
+铁马铠Iron Horse Armor-
+(皮革马铠Leather Horse Armor
+金马铠Gold Horse Armor
+钻石马铠Diamond Horse Armor ) 
+海龟壳Turtle Shell
+鞘翅Elytra
+不死图腾Totem of Undying	
+木剑Wooden Sword-
+(石剑Stone Sword
+铁剑Iron Sword
+金剑Golden Sword
+钻石剑Diamond Sword
+下界合金剑Netherite Sword ) 
+弩Crossbow
+盾牌Shield
+弓Bow
+箭Arrow
+三叉戟Trident
+药箭Tipped Arrow
+工具	
+木斧Wooden Axe-
+(石斧Stone Axe
+铁斧Iron Axe
+金斧Golden Axe
+钻石斧Diamond Axe
+下界合金斧Netherite Axe ) 
+收纳袋Bundle
+木镐Wooden Pickaxe-
+(石镐Stone Pickaxe
+铁镐Iron Pickaxe
+金镐Golden Pickaxe
+钻石镐Diamond Pickaxe
+下界合金镐Netherite Pickaxe )
+木锹Wooden Shovel-
+(石锹Stone Shovel
+铁锹Iron Shovel
+金锹Golden Shovel
+钻石锹Diamond Shovel
+下界合金锹Netherite Shovel ) 
+木锄Wooden Hoe-
+(石锄Stone Hoe
+铁锄Iron Hoe
+金锄Golden Hoe
+钻石锄Diamond Hoe
+下界合金锄Netherite Hoe ) 
+剪刀Shears
+打火石Flint and Steel
+鞍Saddle
+钓鱼竿Fishing Rod-
+(胡萝卜钓竿Carrot on a Stick
+诡异菌钓竿Warped Fungus on a Stick ) 
+船Boat
+附魔书Enchanted Book
+空地图Empty Map-
+(地图Map
+探险家地图Explorer Map ) 
+命名牌Name Tag
+书与笔Book and Quill
+拴绳Lead
+桶Bucket-
+(水桶Water Bucket
+熔岩桶Lava Bucket
+细雪桶Powder Snow Bucket ) 
+河豚桶Bucket of Pufferfish-
+(鲑鱼桶Bucket of Salmon
+鳕鱼桶Bucket of Cod
+热带鱼桶Bucket of Tropical Fish
+美西螈桶Bucket of Axolotl ) 
+指南针Compass
+时钟Clock
+火焰弹Fire Charge
+望远镜Spyglass	
+TNTTNT
+标靶Target
+木门Door
+木质活板门Trapdoor
+栅栏门Fence Gate
+避雷针Lightning 
+RodSculk Sensor
+Sculk Sensor
+按钮Button
+绊线钩Tripwire Hook
+发射器Dispenser
+红石粉Redstone Dust
+红石比较器Redstone Comparator
+红石灯Redstone Lamp
+红石火把Redstone Torch
+红石块Block of Redstone
+红石中继器Redstone Repeater
+活塞Piston
+黏性活塞Sticky Piston
+拉杆Lever
+漏斗Hopper
+木质压力板Wooden Pressure Plate
+石质压力板Stone Pressure Plate
+轻质测重压力板Light Weighted Pressure Plate
+重质测重压力板Heavy Weighted Pressure Plate
+铁活板门Iron Trapdoor
+铁门Iron Door
+投掷器Dropper
+陷阱箱Trapped Chest
+阳光探测器Daylight Detector
+音符盒Note Block
+侦测器Observer
+建筑方块	
+铜块Block of Copper-
+(切制铜块Cut Copper
+涂蜡铜块Waxed Block of Copper
+涂蜡切制铜块Waxed Cut Copper
+斑驳的铜块Exposed Copper
+斑驳的切制铜块Exposed Cut Copper
+斑驳的涂蜡铜块Waxed Exposed Copper
+斑驳的涂蜡切制铜块Waxed Exposed Cut Copper ) 
+氧化的铜块Oxidized Copper-
+(氧化的切制铜块Oxidized Cut Copper
+氧化的涂蜡铜块Waxed Oxidized Copper
+氧化的涂蜡切制铜块Waxed Oxidized Cut Copper
+锈蚀的铜块Weathered Copper
+锈蚀的切制铜块Weathered Cut Copper
+锈蚀的涂蜡铜块Waxed Weathered Copper
+锈蚀的涂蜡切制铜块Waxed Weathered Cut Copper ) 
+缠根泥土Rooted Dirt
+深板岩Deepslate
+深板岩圆石Cobbled Deepslate
+磨制深板岩Polished Deepslate
+深板岩砖Deepslate Bricks
+裂纹深板岩砖Cracked Deepslate Bricks
+深板岩瓦Deepslate Tiles
+裂纹深板岩瓦Cracked Deepslate Tiles
+錾制深板岩Chiseled Deepslate
+细雪Powder Snow
+粗铁块Block of Raw Iron
+粗铜块Block of Raw Copper
+粗金块Block of Raw Gold
+玻璃Glass
+草方块Grass Block
+下界岩Netherrack
+下界疣块Nether Wart Block-
+(诡异疣块Warped Wart Block ) 
+下界砖块Nether Bricks
+红色下界砖块Red Nether Bricks
+干草块Hay Bale
+干海带块Dried Kelp Block
+骨块Bone Block
+海晶石Prismarine-
+(海晶石砖Prismarine Bricks
+暗海晶石Dark Prismarine
+海晶灯Sea Lantern ) 
+海绵Sponge-
+(湿海绵Wet Sponge ) 
+黑曜石Obsidian
+灰化土Podzol
+混凝土Concrete
+混凝土粉末Concrete Powder
+菌丝Mycelium
+灵魂沙Soul Sand
+楼梯Stairs
+煤炭块Block of Coal-
+(下界合金块Block of Netherite
+铁块Block of Iron
+金块Block of Gold
+钻石块Block of Diamond
+青金石块Lapis Lazuli Block
+绿宝石块Block of Emerald ) 
+末地石End Stone-
+(末地石砖End Stone Bricks ) 
+南瓜灯Jack o'lantern泥土Dirt-
+(砂土Coarse Dirt ) 
+黏土块Clay
+染色玻璃Stained Glass
+沙砾Gravel
+沙子Sand-
+(红沙Red Sand )
+砂岩Sandstone-
+(切制红砂岩Cut Red Sandstone
+切制砂岩Cut Sandstone
+錾制砂岩Chiseled Sandstone
+平滑砂岩Smooth Sandstone
+红砂岩Red Sandstone
+錾制红砂岩Chiseled Red Sandstone
+平滑红砂岩Smooth Red Sandstone )
+石头Stone-
+(平滑石头Smooth Stone
+花岗岩Granite
+磨制花岗岩Polished Granite
+闪长岩Diorite
+磨制闪长岩Polished Diorite
+安山岩Andesite
+磨制安山岩Polished Andesite ) 
+石英块Block of Quartz-
+(平滑石英块Smooth Quartz
+錾制石英块Chiseled Quartz Block
+石英柱Quartz Pillar ) 
+石砖Stone Bricks-
+(苔石砖Mossy Stone Bricks
+裂纹石砖Cracked Stone Bricks
+錾制石砖Chiseled Stone Bricks ) 
+书架Bookshelf
+台阶Slab
+苔石Moss Stone
+陶瓦Terracotta
+雪块Snow Block
+岩浆块Magma Block
+羊毛Wool
+荧石Glowstone
+圆石Cobblestone
+砖块Bricks
+紫珀块Purpur Block-
+(紫珀柱Purpur Pillar ) 
+人工合成	
+脚手架Scaffolding
+去皮绯红菌核Stripped Crimson Hyphae-
+(去皮诡异菌核Stripped Warped Hyphae ) 
+去皮木头Stripped Wood
+木头Wood
+木板Planks
+去皮原木Stripped Log
+磨制黑石Polished Blackstone
+錾制磨制黑石Chiseled Polished Blackstone
+錾制下界砖块Chiseled Nether Brick
+磨制黑石砖Polished Blackstone Bricks
+裂纹磨制黑石砖Cracked Polished Blackstone Bricks
+石英砖Quartz Brick
+遮光玻璃Tinted Glass
+紫水晶块Block of Amethyst
+自然生成	
+冰Ice-
+(浮冰Packed Ice蓝冰Blue Ice ) 
+玄武岩Basalt-
+(磨制玄武岩Polished Basalt ) 
+菌光体Shroomlight
+绯红菌柄Crimson Stem-
+(诡异菌柄Warped Stem ) 
+绯红菌岩Crimson Nylium-
+(诡异菌岩Warped Nylium ) 
+绯红菌核Crimson Hyphae-
+(诡异菌核Warped Hyphae ) 
+灵魂土Soul Soil
+原木Log
+去皮绯红菌柄Stripped Crimson Stem-
+(去皮诡异菌柄Stripped Warped Stem ) 
+失活的珊瑚块Dead Coral Block
+珊瑚块Coral Block
+黑石Blackstone
+镶金黑石Gilded Blackstone
+裂纹下界砖块Cracked Nether Brick
+方解石Calcite
+平滑玄武岩Smooth Basalt
+凝灰岩Tuff
+滴水石块Dripstone Block
+基岩Bedrock
+宝箱获得	
+哭泣的黑曜石Crying Obsidian
+酿造	
+玻璃瓶Glass Bottle
+水瓶Water Bottle
+恶魂之泪Ghast Tear
+药水Potion
+发酵蛛眼Fermented Spider Eye
+喷溅型药水Splash Potions
+滞留型药水Lingering Potion
+幻翼膜Phantom Membrane
+炼药锅Cauldron
+烈焰粉Blaze Powder
+龙息Dragon's Breath
+酿造台Brewing Stand
+闪烁的西瓜片Glistering Melon Slice
+兔子脚Rabbit's Foot
+岩浆膏Magma Cream
+铁路	
+矿车Minecart-
+(动力矿车Minecart with Furnace
+TNT矿车Minecart with TNT
+漏斗矿车Minecart with Hopper
+运输矿车Minecart with Chest
+命令方块矿车Minecart with Command Block ) 
+铁轨Rail-
+(充能铁轨Powered Rail
+探测铁轨Detector Rail
+激活铁轨Activator Rail ) 
+食物	
+蛋糕Cake
+蜂蜜瓶Honey Bottle
+迷之炖菜Suspicious Stew
+甜浆果Sweet Berries
+生鳕鱼Raw Cod-
+(熟鳕鱼Cooked Cod )
+毒马铃薯Poisonous Potato
+腐肉Rotten Flesh
+干海带Dried Kelp
+河豚Pufferfish
+金胡萝卜Golden Carrot
+金苹果Golden Apple-
+(附魔金苹果Enchanted Golden Apple ) 
+烤马铃薯Baked Potato
+面包Bread
+蘑菇煲Mushroom Stew
+南瓜派Pumpkin Pie
+奶桶Milk Bucket
+苹果Apple
+曲奇Cookie
+生鲑鱼Raw Salmon-
+(熟鲑鱼Cooked Salmon ) 
+生鸡肉Raw Chicken-
+(熟鸡肉Cooked Chicken ) 
+生牛肉Raw Beef-
+(牛排Steak ) 
+生兔肉Raw Rabbit-
+(熟兔肉Cooked Rabbit ) 
+生羊肉Raw Mutton-
+(熟羊肉Cooked Mutton ) 
+生猪排Raw Porkchop-
+(熟猪排Cooked Porkchop ) 
+甜菜汤Beetroot Soup
+兔肉煲Rabbit Stew
+西瓜片Melon Slice
+小丑鱼Clownfish
+蜘蛛眼Spider Eye
+紫颂果Chorus Fruit
+杂项	
+音乐唱片Music Disc
+旗帜图案Banner Pattern
+海龟蛋Turtle Egg
+成书Written Book
+末影水晶End Crystal
+紫水晶母岩Budding Amethyst
+仅java版	
+光Light
+调试棒Debug Stick
+光灵箭Spectral Arrow
+知识之书Knowledge Book
+仅基岩版或教育版	
+允许方块Allow-
+(拒绝方块Deny ) 
+边界方块Border Block
+光源方块light block
+虫蚀方块	
+被虫蚀的石头Infested Stone-
+(被虫蚀的圆石Infested Cobblestone
+被虫蚀的石砖Infested Stone Bricks
+被虫蚀的苔石砖Infested Mossy Stone Bricks
+被虫蚀的裂纹石砖Infested Cracked Stone Bricks
+被虫蚀的錾制石砖Infested Chiseled Stone Bricks ) 
+被虫蚀的深板岩Infested Deepslate
+限指令	
+结构方块Structure Block
+拼图方块Jigsaw Block
+石化橡木台阶Petrified Oak Slab
+霜冰Frosted Ice
+结构空位Structure Void
+空气Air
+命令方块Command Block-
+(循环型命令方块Repeating Command Block
+连锁型命令方块Chain Command Block ) 
+玩家头颅Player Skull
+屏障Barrier
+刷怪蛋Spawn Egg
+刷怪笼Spawner
+火Fire-
+(灵魂火Soul Fire ) 
+液体	
+熔岩Lava
+水Water
+头颅	
+凋灵骷髅头颅Wither Skeleton Skull
+僵尸的头Zombie Head
+骷髅头颅Skeleton Skull
+龙首Dragon Head
+苦力怕的头Creeper Head
+植物	
+草Grass-
+(蕨Fern
+高草丛Double Tallgrass
+大型蕨Large Fern ) 
+菌类Fungi
+垂泪藤Weeping Vines-
+(缠怨藤Twisting Vines ) 
+下界苗Nether Sprouts
+绯红菌索Crimson Roots-
+(诡异菌索Warped Roots ) 
+海泡菜Sea Pickle
+蘑菇柄Mushroom Stem
+发光地衣Glow Lichen
+杜鹃花丛Azalea-
+(盛开的杜鹃花丛Flowering Azalea )
+小型垂滴叶Small Dripleaf-
+(大型垂滴叶Big Dripleaf ) 
+垂根Hanging Roots
+孢子花Spore Blossom
+发光浆果Glow Berries-
+(洞穴藤蔓Cave Vines )
+海草Seagrass
+海带Kelp
+枯萎的灌木Dead Bush
+棕色蘑菇Brown Mushroom-
+(红色蘑菇Red Mushroom
+红色蘑菇方块Red Mushroom Block
+棕色蘑菇方块Brown Mushroom Block ) 
+蒲公英Dandelion-
+(凋零玫瑰Wither Rose
+铃兰Lily of the Valley
+矢车菊Cornflower
+玫瑰Rose
+虞美人Poppy
+兰花Blue Orchid
+绒球葱Allium
+蓝花美耳草Azure Bluet
+红色郁金香Red Tulip
+橙色郁金香Orange Tulip
+白色郁金香White Tulip
+粉红色郁金香Pink Tulip
+滨菊Oxeye Daisy
+向日葵Sunflower
+丁香Lilac
+玫瑰丛Rose Bush
+牡丹Peony ) 
+睡莲Lily Pad
+藤蔓Vines
+仙人掌Cactus
+橡树树苗Oak Sapling-
+(云杉树苗Spruce Sapling
+白桦树苗Birch Sapling
+丛林树苗Jungle Sapling
+金合欢树苗Acacia Sapling
+深色橡树树苗Dark Oak Sapling ) 
+作物	
+下界疣Nether Wart
+甘蔗Sugar Canes
+胡萝卜Carrot
+可可豆Cocoa Beans
+可可果Cocoa Plants
+马铃薯Potato
+南瓜Pumpkin
+南瓜种子Pumpkin Seeds
+西瓜Melon
+西瓜种子Melon Seeds
+小麦Wheat
+小麦种子Seeds
+甜菜根Beetroot
+甜菜种子Beetroot Seeds
+紫颂花Chorus Flower-
+(紫颂植物Chorus Plant ) 
+竹子Bamboo
+装饰品	
+玻璃板Glass Pane
+蜂蜜块Honey Block
+蜜脾块Honeycomb Block
+灯笼Lantern-
+(灵魂灯笼Soul Lantern ) 
+墙Wall
+珊瑚Corals
+失活的珊瑚Dead Corals
+珊瑚扇Coral Fans
+失活的珊瑚扇Dead Coral Fans
+锁链Chain
+小型紫晶芽Small Amethyst Bud-
+(中型紫晶芽Medium Amethyst Bud
+大型紫晶芽Large Amethyst Bud ) 
+滴水石锥Pointed Dripstone
+杜鹃树叶Azalea Leaves-
+(盛开的杜鹃树叶Flowering Azalea Leaves ) 
+苔藓块Moss Block-
+(苔藓地毯Moss Carpet ) 
+蜡烛Candle
+土径Dirt Path
+带釉陶瓦Glazed Terracotta
+地毯Carpet
+告示牌Sign
+耕地Farmland
+花盆Flower Pot
+画Painting
+火把Torch-
+(灵魂火把Soul Fire Torch ) 
+盔甲架Armor Stand
+龙蛋Dragon Egg
+末地传送门框架End Portal Frame
+末地烛End Rod
+黏液块Slime Block
+旗帜Banner
+染色玻璃板Stained Glass Pane
+梯子Ladder
+铁栏杆Iron Bars
+物品展示框Item Frame
+橡树树叶Oak Leaves-
+(云杉树叶Spruce Leaves
+白桦树叶Birch Leaves
+丛林树叶Jungle Leaves
+金合欢树叶Acacia Leaves
+深色橡树树叶Dark Oak Leaves ) 
+雪Snow
+栅栏Fence
+蜘蛛网Cobweb
+装置	
+唱片机Jukebox
+砂轮Grindstone
+切石机Stonecutter
+蜂巢Bee Nest-
+(蜂箱Beehive ) 
+讲台Lectern
+制箭台Fletching Table
+锻造台Smithing Table
+制图台Cartography Table
+织布机Loom
+钟Bell
+重生锚Respawn Anchor
+磁石Lodestone
+潮涌核心Conduit
+床Bed
+堆肥桶Composter
+工作台Crafting Table
+附魔台Enchantment Table
+末影箱Ender Chest
+木桶Barrel
+潜影盒Shulker Box
+熔炉Furnace-
+(烟熏炉Smoker
+高炉Blast Furnace ) 
+铁砧Anvil-
+(开裂的铁砧Chipped Anvil
+损坏的铁砧Damaged Anvil ) 
+箱子Chest
+信标Beacon
+营火Campfire-
+(灵魂营火Soul Campfire ) 
+已移除	
+生鱼Raw Fish-
+(熟鱼Cooked Fish ) 
+仅基岩版或教育版	
+下界反应核Nether Reactor Core
+发光的黑曜石Glowing Obsidian
